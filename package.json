@@ -1,0 +1,35 @@
+{
+  "name": "language-brightscript",
+  "main": "./lib/language-brightscript",
+  "version": "0.0.1",
+  "description": "Syntax highlighting for Brightscript",
+  "keywords": [
+    "brightscript",
+    "brs"
+  ],
+  "author": {
+    "name": "andrejleal"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrejleal/atom-language-brightscript.git"
+  },
+  "homepage": "https://github.com/andrejleal/atom-language-brightscript",
+  "license": "GNU GPL v2",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "readme": "Brightscript highlighting for Atom",
+  "readmeFilename": "README.md",
+  "dependencies": {},
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
